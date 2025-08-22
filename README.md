@@ -5,6 +5,7 @@
   <a href="https://t.me/@userbitcone">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=dark&style=for-the-badge" alt="Telegran badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=zxck1l">
 </div>
 <!---
 zxck1l/zxck1l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
